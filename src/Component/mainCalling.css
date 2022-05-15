@@ -1,0 +1,10 @@
+.student-details{
+    position: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px 0 10px;
+    flex-direction: column;
+
+}
